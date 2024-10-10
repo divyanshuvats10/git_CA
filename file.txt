@@ -3,4 +3,4 @@ Age : 20
 Gender : Male
 Father's Name : Subhash Sharma
 Mother's Name : Priti Sharma
-Area of Specialization : Full Stack Developer
+Area of Specialization : Full Stack Web Developer
